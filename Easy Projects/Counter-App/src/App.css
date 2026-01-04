@@ -1,0 +1,55 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+.div-body {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+.div-count {
+  font-size: 4rem;
+  font-weight: bold;
+}
+button {
+  background-color: rgb(223, 217, 211);
+  width: 60px;
+  height: 30px;
+  color: rgb(100, 11, 11);
+  border-radius: 20px;
+  margin: 10px;
+  transition: all 0.3s ease-in-out;
+
+  border: none;
+}
+.btn-reset {
+  width: 130px;
+}
+button:hover {
+  transform: scale(1.1);
+}
+.btn-reset:hover {
+  background-color: red;
+  color: white;
+  font-size: 1rem;
+}
+
+.btn-plus:hover,
+.btn-minus:hover {
+  background-color: green;
+  color: white;
+  font-size: 1rem;
+}
+
+.footer-text {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  font-size: 15px;
+  columns: #555;
+}
