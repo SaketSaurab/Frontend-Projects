@@ -1,0 +1,259 @@
+
+
+#O  EASY PROJECTS (Foundations)
+
+These prove you understand React basics and can build clean UI.
+
+<---------------------------------------------------------------->
+
+## 1. Counter App
+
+Features you must build
+
+             -> Increment / Decrement buttons
+             -> Reset button
+             -> Disable button at limits (e.g. < 0)
+
+[->]    What you’ll learn
+
+             -> `useState`
+             -> Event handling
+             -> Conditional rendering
+
+<---------------------------------------------------------------->
+
+## 2. To-Do List
+
+Features you must build
+
+             -> Add / delete tasks
+             -> Mark task as completed
+             -> Filter (All / Completed / Pending)
+
+[->]   What you’ll learn
+
+             -> Lists & keys
+             -> State updates
+             -> Controlled inputs
+
+<---------------------------------------------------------------->
+
+## 3. Theme Switcher (Dark / Light)
+
+Features you must build
+
+             -> Toggle theme
+             -> Persist theme using `localStorage`
+
+[->]    What you’ll learn
+
+             -> `useEffect`
+             -> Browser storage
+             -> Dynamic styling
+
+<---------------------------------------------------------------->
+
+## 4. Simple Calculator
+
+Features you must build
+
+             -> Basic operations (+ − × ÷)
+             -> Clear button
+             -> Keyboard support (bonus)
+
+[->]    What you’ll learn
+
+             -> State logic
+             -> Handling user input
+             -> Edge cases
+
+<---------------------------------------------------------------->
+
+## 5.  Digital Clock
+
+Features you must build
+
+             -> Live time update
+             -> 12 / 24 hour format
+
+[->]   What you’ll learn
+
+             -> `setInterval`
+             -> Cleanup with `useEffect`
+             -> Time formatting
+
+<---------------------------------------------------------------->
+
+#O  MEDIUM PROJECTS (Real-World Skills)
+
+These show you can build useful applications.
+
+<---------------------------------------------------------------->
+
+## 6.  Weather App 
+
+Features you must build
+
+             -> Search city
+             -> Show temperature, humidity, condition
+             -> Error handling (invalid city)
+
+[->]   What you’ll learn
+
+             -> API fetching
+             -> Async logic
+             -> Loading & error states
+
+<---------------------------------------------------------------->
+
+## 7.  Notes App
+
+Features you must build
+
+             -> Create / edit / delete notes
+             -> Save notes to `localStorage`
+             -> Search notes
+
+[->]   What you’ll learn
+
+             -> CRUD operations
+             -> Data persistence
+             -> State structuring
+
+<---------------------------------------------------------------->
+
+## 8.  Expense Tracker
+
+Features you must build
+
+             -> Add income & expenses
+             -> Show total balance
+             -> Filter by category
+
+[->]   What you’ll learn
+
+             -> Derived state
+             -> Data aggregation
+             -> Component reuse
+
+<---------------------------------------------------------------->
+
+## 9.  Movie Search App 🎬
+
+Features you must build
+
+             -> Search movies from API
+             -> Movie details page
+             -> Pagination
+
+[->]    What you’ll learn
+
+             -> API integration
+             -> Conditional UI
+             -> Performance basics
+
+<---------------------------------------------------------------->
+
+## 10.  Authentication UI (Frontend Only)
+
+Features you must build
+
+             -> Login / signup forms
+             -> Validation
+             -> Fake auth using `localStorage`
+
+[->]    What you’ll learn
+
+             -> Form handling
+             -> Validation logic
+             -> Auth flow concepts
+
+<---------------------------------------------------------------->
+
+#  HARD PROJECTS (Job-Ready / Portfolio Level)
+
+These separate beginners from real frontend developers.
+
+<---------------------------------------------------------------->
+
+## 11.   E-Commerce Store 🛒
+
+Features you must build
+
+             -> Product listing
+             -> Add to cart
+             -> Remove / update quantity
+             -> Cart total
+
+[->]   What you’ll learn
+
+             -> Global state management
+             -> Complex UI flows
+             -> Clean component architecture
+
+<---------------------------------------------------------------->
+
+## 12.  Dashboard Application
+
+Features you must build
+
+             -> Sidebar navigation
+             -> Charts (using chart library)
+             -> Data cards
+
+[->]   What you’ll learn
+
+             -> Layout systems
+             -> Reusable components
+             -> Data visualization
+
+<---------------------------------------------------------------->
+
+## 13.  Multi-Step Form
+
+Features you must build
+
+             -> Step navigation
+             -> Validation per step
+             -> Final summary page
+
+[->]   What you’ll learn
+
+             -> Advanced form logic
+             -> State lifting
+             -> UX thinking
+
+<---------------------------------------------------------------->
+
+## 14.  Task Management App (Trello-like)
+
+Features you must build
+
+             -> Columns (Todo / Doing / Done)
+             -> Drag & drop
+             -> Persist data
+
+[->]    What you’ll learn
+
+             -> Complex state
+             -> Drag-and-drop logic
+             -> Real-world UI patterns
+
+<---------------------------------------------------------------->
+
+## 15.  Social Media Feed (Frontend Only)
+
+Features you must build
+
+             -> Posts
+             -> Likes / comments
+             -> Infinite scroll
+
+[->]   What you’ll learn
+
+             -> Performance optimization
+             -> List virtualization
+             -> UI scalability
+
+<---------------------------------------------------------------->
+
